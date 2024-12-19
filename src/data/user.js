@@ -44,8 +44,7 @@ const INFO = {
 
 		{
 			title: "Japa sales web app",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+			description: "Web Application enabling buying and selling ",
 			logo: "./japa.png",
 			linkText: "View Project",
 			link: "https://japasales.netlify.app/",
