@@ -15,9 +15,9 @@ const INFO = {
 		facebook: "https://www.facebook.com/share/1AwcvLdiE1/?mibextid=wwXIfr",
 	},
 	homepage: {
-		title: "Web  and Mobile App Engineer 🚀.",
+		title: "Frontend Engineer 🚀.",
 		description:
-			"As a software engineer with over two years of experience, I thrive in the dynamic world of mobile and web applications! 🚀 I’m a quick learner, always eager to tackle new challenges and level up my skills. 🎮 My passion for technology drives me to deliver exceptional results and spark innovation in everything I do. 💡 I’m constantly on the lookout for new opportunities to challenge myself and grow as a professional. Let’s create something amazing together! 🤝✨",
+			"Not to bore you or sound cliché, but I love building things from scratch—it’s my jam! 🛠️ That said, I’m always up for diving into an existing codebase. Whether it’s fixing bugs or adding features, I’m here for the challenge! 🚀",
 	},
 
 	about: {
@@ -61,7 +61,7 @@ const INFO = {
 		{
 			title: "Geeta Invests",
 			description: "A platform enabling investment in various options",
-			logo: "./about.png",
+			logo: "./geeta.png",
 			linkText: "View Project",
 			link: "https://geetainvest.netlify.app/",
 		},
